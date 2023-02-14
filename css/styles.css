@@ -1,0 +1,24 @@
+body{
+    background-color: rgb(184, 109, 121);
+}
+h1{
+        size: 20px;
+
+}
+
+img{
+    background-color: rgb(220, 202, 238);
+}
+.mushroom{
+    background-color: rgb(143, 34, 34);
+
+}
+.monkey{
+    background-color: antiquewhite;
+}
+.circular{
+    border-radius: 100%;
+}
+#heading{
+    color: rgb(172, 79, 172);
+}
